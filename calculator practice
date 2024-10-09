@@ -1,12 +1,13 @@
 #Isaac Bissonette & Owen Perez
 #10/8/24
 #Calculator practice
-
+print()
+print()
 print(''' your options: 
-      1. Addition
-      2. Subtraction
-      3. Multiplication
-      4. division
+      1. Addition (+)
+      2. Subtraction (-)
+      3. Multiplication (*)
+      4. division (/)
       ''')
 print()
 print()
